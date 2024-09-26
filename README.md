@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mastering C++.<br>🤝 I’m looking for help for mastering C++.<br>🌱 I’m currently learning C++ and Python !<br>⚡ Fun fact : I use Archlinux !
+🔭 I’m currently working on mastering Python (and C++).<br>🤝 I’m looking for help for mastering C++.<br>🌱 I’m currently learning C++ and Python !<br>⚡ Fun fact : I use Archlinux !
 
 
 ## 🌐 Socials:
