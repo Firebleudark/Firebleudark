@@ -1,7 +1,7 @@
 # 💫About Me :
-🔭 I’m currently working on a script to install automatically install packages on a Archlinux system.
-🤝 I mastering Python with a friend !
-🌱 I’m currently learning Rust and Python !
+🔭 I’m currently working on a script to install automatically install packages on a Archlinux system.<br>
+🤝 I mastering Python with a friend !<br>
+🌱 I’m currently learning Rust and Python !<br>
 ⚡ Fun fact : I use Archlinux !
 
 ## 🌐Socials
