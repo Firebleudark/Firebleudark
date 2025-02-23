@@ -16,6 +16,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Firebleudark&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=Firebleudark&icon=1&color=6)](https://visitcount.itsvg.in)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firebleudark/firebleudark/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/firebleudark/firebleudark/output/github-snake.svg" />
