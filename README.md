@@ -18,3 +18,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Firebleudark&icon=1&color=6)](https://visitcount.itsvg.in)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firebleudark/firebleudark/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/firebleudark/firebleudark/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/firebleudark/firebleudark/output/github-snake.svg" />
+</picture>
+
